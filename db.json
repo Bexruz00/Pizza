@@ -1,0 +1,116 @@
+{
+    "categories": [
+      {
+        "id": 0,
+        "name": "Все",
+        "isActive": true
+      },
+      {
+        "id": "2",
+        "name": "Мясные",
+        "isActive": false
+      },
+      {
+        "id": "3",
+        "name": "Вегетарианская",
+        "isActive": false
+      },
+      {
+        "id": "4",
+        "name": "Гриль",
+        "isActive": false
+      },
+      {
+        "id": "5",
+        "name": "Острые",
+        "isActive": false
+      },
+      {
+        "id": "6",
+        "name": "Закрытые",
+        "isActive": false
+      }
+    ],
+    "products": [
+      {
+        "id": "1",
+        "img": "https://just-eat.by/image/data/shops/29197/47489.jpg",
+        "title": "Чизбургер-пицца",
+        "typeId": 0,
+        "sizeId": 2,
+        "price": "395",
+        "savedCount": 0,
+        "categoryId": 4
+      },
+      {
+        "id": "2",
+        "img": "https://just-eat.by/image/data/shops/29197/110058.jpg",
+        "title": "Сырная",
+        "typeId": 1,
+        "sizeId": 3,
+        "price": "450",
+        "savedCount": 0,
+        "categoryId": 3
+      },
+      {
+        "id": "3",
+        "img": "https://just-eat.by/image/data/shops/29197/47487.jpg",
+        "title": "Креветки по-азиатски",
+        "typeId": 1,
+        "sizeId": 1,
+        "price": "290",
+        "savedCount": 0,
+        "categoryId": 2
+      },
+      {
+        "id": "4",
+        "img": "https://just-eat.by/image/data/shops/29197/47486.jpg",
+        "title": "Сырный цыпленок",
+        "typeId": 1,
+        "sizeId": 1,
+        "price": "290",
+        "savedCount": 0,
+        "categoryId": 3
+      },
+      {
+        "id": "5",
+        "img": "https://just-eat.by/image/data/shops/29197/110060.jpg",
+        "title": "Пицца Четыре Сезона",
+        "typeId": 1,
+        "sizeId": 1,
+        "price": "290",
+        "savedCount": 0,
+        "categoryId": 4
+      },
+      {
+        "id": "6",
+        "img": "https://just-eat.by/image/data/shops/29197/47485.jpg",
+        "title": "Пицца Супермясная",
+        "typeId": 1,
+        "sizeId": 1,
+        "price": "290",
+        "savedCount": 0,
+        "categoryId": 2
+      },
+      {
+        "id": "7",
+        "img": "https://just-eat.by/image/data/shops/29197/47481.jpg",
+        "title": "Пицца Мясная",
+        "typeId": 1,
+        "sizeId": 1,
+        "price": "290",
+        "savedCount": 0,
+        "categoryId": 2
+      },
+      {
+        "id": "8",
+        "img": "https://just-eat.by/image/data/shops/29197/47480.jpg",
+        "title": "Пицца Мексиканская",
+        "typeId": 1,
+        "sizeId": 1,
+        "price": "290",
+        "savedCount": 0,
+        "categoryId": 4
+      }
+    ]
+  }

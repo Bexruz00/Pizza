@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body{
+  padding: 45px;
+  background-color: #FFDF8C;
+}
+
+.product-item[data-state="active"]{
+  background-color: white !important;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
